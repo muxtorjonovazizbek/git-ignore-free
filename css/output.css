@@ -719,18 +719,6 @@ video {
   margin-top: 0.5rem;
 }
 
-.mt-9 {
-  margin-top: 2.25rem;
-}
-
-.-mt-96 {
-  margin-top: -24rem;
-}
-
-.mt-96 {
-  margin-top: 24rem;
-}
-
 .mt-60 {
   margin-top: 15rem;
 }
@@ -1973,11 +1961,6 @@ video {
 
 .align-super {
   vertical-align: super;
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
 }
 
 .text-9xl {
